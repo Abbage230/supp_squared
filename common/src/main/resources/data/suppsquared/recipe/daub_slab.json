@@ -8,9 +8,9 @@
       "item": "supplementaries:daub"
     }
   },
-  "conditions": [
+  "fabric:load_conditions": [
     {
-      "type": "supplementaries:flag",
+      "condition": "supplementaries:flag",
       "flag": "daub"
     }
   ],

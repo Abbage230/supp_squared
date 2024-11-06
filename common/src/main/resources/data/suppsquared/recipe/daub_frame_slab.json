@@ -8,9 +8,9 @@
       "tag": "supplementaries:wattle_and_daub"
     }
   },
-  "conditions": [
+  "fabric:load_conditions": [
     {
-      "type": "supplementaries:flag",
+      "condition": "supplementaries:flag",
       "flag": "wattle_and_daub"
     }
   ],

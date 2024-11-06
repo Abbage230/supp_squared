@@ -11,9 +11,9 @@
   "result": {
     "item": "suppsquared:heavy_key"
   },
-  "conditions": [
+  "fabric:load_conditions": [
     {
-      "type": "supplementaries:flag",
+      "condition": "supplementaries:flag",
       "flag": "key"
     }
   ]

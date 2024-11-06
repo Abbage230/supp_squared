@@ -16,9 +16,9 @@
     "item": "suppsquared:gold_candle_holder_brown",
     "count": 1
   },
-  "conditions": [
+  "fabric:load_conditions": [
     {
-      "type": "supplementaries:flag",
+      "condition": "supplementaries:flag",
       "flag": "candle_holder"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "conditions": [
+  "fabric:load_conditions": [
     {
       "modid": "alexsmobs",
-      "type": "forge:mod_loaded"
+      "type": "fabric:mod_loaded"
     }
   ],
   "type": "minecraft:crafting_shaped",
