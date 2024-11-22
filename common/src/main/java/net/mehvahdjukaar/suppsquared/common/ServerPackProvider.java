@@ -54,8 +54,7 @@ public class ServerPackProvider extends DynServerResourcesGenerator {
     }
 
     private void addItemShelfRecipes(ResourceManager manager) {
-        Recipe<?> recipe = RPUtils.readRecipe(manager, ResType.RECIPES.getPath(
-                Supplementaries.res("item_shelf")));
+        Recipe<?> recipe = RPUtils.readRecipe(manager, Supplementaries.res("item_shelf"));
 
         SuppSquared.ITEM_SHELVES.forEach((w, b) -> {
             if (w != WoodTypeRegistry.OAK_TYPE) {
