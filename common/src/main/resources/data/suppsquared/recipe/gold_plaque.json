@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:gold_ingot"
+      "tag": "c:ingots/gold"
     }
   },
   "result": {
-    "item": "suppsquared:gold_plaque",
+    "id": "suppsquared:gold_plaque",
     "count": 3
   }
 }

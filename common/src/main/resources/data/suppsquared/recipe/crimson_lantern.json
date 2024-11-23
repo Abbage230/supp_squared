@@ -8,7 +8,7 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:gold_ingot"
+      "tag": "c:ingots/gold"
     },
     "2": {
       "item": "minecraft:paper"
@@ -18,7 +18,7 @@
     }
   },
   "result": {
-    "item": "suppsquared:crimson_lantern",
+    "id": "suppsquared:crimson_lantern",
     "count": 2
   }
 }

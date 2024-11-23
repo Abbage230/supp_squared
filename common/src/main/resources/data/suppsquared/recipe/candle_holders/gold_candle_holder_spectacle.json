@@ -9,11 +9,11 @@
       "item": "cave_enhancements:spectacle_candle"
     },
     "2": {
-      "item": "minecraft:gold_ingot"
+      "tag": "c:ingots/gold"
     }
   },
   "result": {
-    "item": "suppsquared:gold_candle_holder_spectacle",
+    "id": "suppsquared:gold_candle_holder_spectacle",
     "count": 1
   },
   "fabric:load_conditions": [
@@ -22,7 +22,7 @@
       "flag": "candle_holder"
     },
     {
-      "type": "forge:mod_loaded",
+      "condition": "fabric:mod_loaded",
       "modid": "cave_enhancements"
     }
   ]

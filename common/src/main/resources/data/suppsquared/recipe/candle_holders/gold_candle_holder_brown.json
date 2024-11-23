@@ -9,11 +9,11 @@
       "item": "minecraft:brown_candle"
     },
     "2": {
-      "item": "minecraft:gold_ingot"
+      "tag": "c:ingots/gold"
     }
   },
   "result": {
-    "item": "suppsquared:gold_candle_holder_brown",
+    "id": "suppsquared:gold_candle_holder_brown",
     "count": 1
   },
   "fabric:load_conditions": [

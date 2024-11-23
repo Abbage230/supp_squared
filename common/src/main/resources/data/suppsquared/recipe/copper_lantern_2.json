@@ -2,7 +2,7 @@
   "fabric:load_conditions": [
     {
       "modid": "alexsmobs",
-      "type": "fabric:mod_loaded"
+      "condition": "fabric:mod_loaded"
     }
   ],
   "type": "minecraft:crafting_shaped",
@@ -20,7 +20,7 @@
     }
   },
   "result": {
-    "item": "suppsquared:copper_lantern",
+    "id": "suppsquared:copper_lantern",
     "count": 2
   }
 }
